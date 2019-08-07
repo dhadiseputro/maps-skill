@@ -5,8 +5,8 @@ Tell the trave
 This skill will get the current location and the specified destination, then speaks the travel time between the 2 locations.
 
 ## Examples
-* "How long does it take to go to"
-* "How long will it take to go to"
+* "How long does it take to go to <location>"
+* "How long will it take to go to <location>"
 
 ## Credits
 dhadiseputro and AIIX
